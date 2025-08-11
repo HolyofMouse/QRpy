@@ -18,7 +18,7 @@ import segno
 from segno import helpers
 import pathlib
 
-path_to_dir='/storage/emulated/0/Pictures/QR'
+path_to_dir='~/Pictures/QR/'
 
 
 class Qr_code():
